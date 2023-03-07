@@ -32,6 +32,7 @@ body{
     direction: ltr;
     outline: none;
     border: none;
+    pointer-events: none; 
 }
 
 .btn{
